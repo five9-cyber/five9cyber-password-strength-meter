@@ -28,7 +28,7 @@ You can access the tool [here](https://tools.five9cyber.com).
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/maverickg59/password-strength.git
+   git clone https://github.com/five9-cyber/tools
    cd password-strength-meter
    ```
 
