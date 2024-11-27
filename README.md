@@ -21,7 +21,7 @@ This project is a password strength meter built using [zxcvbn password strength 
 
 ### Live Demo
 
-You can access the tool [here](https://tools.five9cyber.com).
+You can access the tool [here](https://password.five9cyber.com).
 
 ### Running Locally
 
